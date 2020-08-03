@@ -46,7 +46,7 @@ console.log(charData)
 
   return (
     <People className="App">
-      <h1 className="Header">Characters</h1>
+      <h1 className="Header">Star Wars: The People</h1>
       <Character charData={charData} />
     </People>
   );
